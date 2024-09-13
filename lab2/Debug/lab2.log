@@ -1,0 +1,3 @@
+﻿  lab2.cpp
+D:\docs\unik\2 kurs\logick\lab2\lab2\lab2.cpp(23,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  lab2.vcxproj -> D:\docs\unik\2 kurs\logick\lab2\Debug\lab2.exe
